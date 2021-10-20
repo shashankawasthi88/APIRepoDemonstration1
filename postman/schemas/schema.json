@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "version": "1",
-    "title": "API 2",
+    "title": "API2",
     "license": {
       "name": "MIT"
     }
@@ -15,7 +15,7 @@
   "paths": {
     "/user": {
       "get": {
-        "summary": "Details about a user-CHanges from GH",
+        "summary": "Details about a user",
         "operationId": "listUser",
         "tags": [
           "user"
